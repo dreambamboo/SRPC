@@ -1,0 +1,24 @@
+manifest: /root/autodl-tmp/data/SARC_survival_feature_manifest.csv
+rows_slide_level: 235
+unique_patients: 235
+subtype_counts:
+  DDLPS: 54
+  LMS: 96
+  MFS: 22
+  MPNST: 9
+  SS: 10
+  UPS: 44
+OS_nonmissing: 235
+OS.time_nonmissing: 235
+DSS_nonmissing: 229
+DSS.time_nonmissing: 235
+DFI_nonmissing: 136
+DFI.time_nonmissing: 136
+PFI_nonmissing: 235
+PFI.time_nonmissing: 235
+resnet50_trunc_pt_path_nonmissing: 235
+resnet50_trunc_h5_path_nonmissing: 235
+uni_v2_pt_path_nonmissing: 235
+uni_v2_h5_path_nonmissing: 235
+conch_v1_5_pt_path_nonmissing: 235
+conch_v1_5_h5_path_nonmissing: 235

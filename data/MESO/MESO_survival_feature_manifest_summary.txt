@@ -1,0 +1,9 @@
+manifest: /root/autodl-tmp/data/MESO_survival_feature_manifest.csv
+rows_slide_level: 81
+unique_patients: 69
+subtype_counts_slide_level:
+  Biphasic: 19
+  Epithelioid: 62
+resnet50_trunc_pt_nonmissing: 81
+uni_v2_pt_nonmissing: 81
+conch_v1_5_pt_nonmissing: 81

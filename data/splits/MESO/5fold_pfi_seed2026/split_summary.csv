@@ -1,0 +1,11 @@
+seed,fold,split,slides,patients,events,censored,Epithelioid_patients,Epithelioid_slides,Epithelioid_events,Epithelioid_censored,Biphasic_patients,Biphasic_slides,Biphasic_events,Biphasic_censored
+2026,0,train,65,55,38,17,41,50,26,15,14,15,12,2
+2026,0,test,16,14,9,5,10,12,6,4,4,4,3,1
+2026,1,train,66,55,38,17,41,51,26,15,14,15,12,2
+2026,1,test,15,14,9,5,10,11,6,4,4,4,3,1
+2026,2,train,66,55,37,18,41,51,25,16,14,15,12,2
+2026,2,test,15,14,10,4,10,11,7,3,4,4,3,1
+2026,3,train,60,55,37,18,40,44,25,15,15,16,12,3
+2026,3,test,21,14,10,4,11,18,7,4,3,3,3,0
+2026,4,train,67,56,38,18,41,52,26,15,15,15,12,3
+2026,4,test,14,13,9,4,10,10,6,4,3,4,3,0
