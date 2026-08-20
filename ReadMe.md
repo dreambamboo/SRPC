@@ -1,4 +1,4 @@
-﻿# Subtype-Aware Residual Prognostic Calibration for Histopathology-Based Survival Modeling in Small-Cohort Rare Diseases
+﻿# Subtype-Aware Residual Prognostic Calibration for Histopathology-Based Survival Modeling in Rare Diseases
 
 This repository contains release code for **Subtype-aware Residual Prognostic Calibration (SRPC)**, a survival modeling framework for whole-slide histopathology in small-cohort rare diseases. The prognosis part is inference-only: users provide their own WSI-derived feature paths, and the released SRPC checkpoints in this repository are used to reproduce the reported Table 1 predictions and metrics.
 
